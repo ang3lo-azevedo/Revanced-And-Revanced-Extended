@@ -14,5 +14,31 @@
 		"key" : "AppNameLauncher",
 		"value" : "RVX Music Anddea"
 	  } ]
-	}
+	}, {
+	  "name" : "GmsCore support",
+	  "options" : [ {
+	        "key" : "GmsCoreVendorGroupId",
+	  	"values" : {
+			"ReVanced" : "app.revanced"
+		},
+	  }, {
+	        "key" : "CheckGmsCore",
+	        "values" : null
+	  }, {
+	  	"key" : "DisableGmsServiceBroker",
+	  	"values" : null
+	  }, {
+	  	"key" : "PackageNameYouTube",
+	  	"values" : {
+			"Clone" : "bill.youtube",
+			"Default" : "anddea.youtube"
+		},
+	  }, {
+	  	"key" : "PackageNameYouTubeMusic",
+	  	"values" : {
+			"Clone" : "bill.youtube.music",
+			"Default" : "anddea.youtube.music"
+		},
+	  } ]
+	},
 ]
